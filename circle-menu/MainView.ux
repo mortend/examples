@@ -99,7 +99,7 @@
 						<Grid Rows="3*,2*">
 							<DefaultText FontSize="40.3" Value="Monday" Alignment="CenterLeft" />
 							<Panel Height="30" Alignment="Bottom">
-								<MutedText FontSize="15" Value="February 8, 2015" Alignment="CenterLeft" />
+								<MutedText FontSize="15" Value="February 8, 2021" Alignment="CenterLeft" />
 							</Panel>
 						</Grid>
 					</Panel>
